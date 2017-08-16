@@ -1,0 +1,14 @@
+{
+  "influx": {
+    "database": "poloniex",
+    "host": "localhost",
+    "port": 8086,
+    "username": "alice",
+    "password": "pa$$w0rD",
+    "measurement": "poloniex_exchange"
+  },
+  "poloniex":{
+    "uri": "wss://api.poloniex.com",
+    "realm": "realm1"
+  }
+}
